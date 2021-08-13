@@ -13,7 +13,7 @@ $(call inherit-product, vendor/cherish/config/common_full_phone.mk)
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 WITH_GMS := true
-CHERISH_BUILD_TYPE := InnOvaTioN
+CHERISH_BUILD_TYPE := Official
 PRODUCT_GENERIC_PROPERTIES += \
     ro.cherish.maintainer=bezke
 
